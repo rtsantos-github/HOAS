@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "944ee2731f041116f5967977fa25ea28",
+    "revision": "cb51cf0f84fc4bf1f8eebc272467a3da",
     "url": "/hoas/index.html"
   },
   {
-    "revision": "02fedfceda5e49e562f5",
+    "revision": "1e7c0e84f708ce249fd4",
     "url": "/hoas/static/css/main.f547b944.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hoas/static/js/2.3a9157b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02fedfceda5e49e562f5",
-    "url": "/hoas/static/js/main.8875ebdb.chunk.js"
+    "revision": "1e7c0e84f708ce249fd4",
+    "url": "/hoas/static/js/main.da7ad60f.chunk.js"
   },
   {
     "revision": "0d4526e5428d439a8e80",

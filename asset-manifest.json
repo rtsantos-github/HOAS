@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hoas/static/css/main.f547b944.chunk.css",
-    "main.js": "/hoas/static/js/main.8875ebdb.chunk.js",
-    "main.js.map": "/hoas/static/js/main.8875ebdb.chunk.js.map",
+    "main.js": "/hoas/static/js/main.da7ad60f.chunk.js",
+    "main.js.map": "/hoas/static/js/main.da7ad60f.chunk.js.map",
     "runtime-main.js": "/hoas/static/js/runtime-main.8255bf0d.js",
     "runtime-main.js.map": "/hoas/static/js/runtime-main.8255bf0d.js.map",
     "static/js/2.3a9157b6.chunk.js": "/hoas/static/js/2.3a9157b6.chunk.js",
     "static/js/2.3a9157b6.chunk.js.map": "/hoas/static/js/2.3a9157b6.chunk.js.map",
     "index.html": "/hoas/index.html",
-    "precache-manifest.5c5bb53b89a5ff5ec02762bae27b7ab7.js": "/hoas/precache-manifest.5c5bb53b89a5ff5ec02762bae27b7ab7.js",
+    "precache-manifest.45beb0e5e1877b1113d478ee124c4423.js": "/hoas/precache-manifest.45beb0e5e1877b1113d478ee124c4423.js",
     "service-worker.js": "/hoas/service-worker.js",
     "static/css/main.f547b944.chunk.css.map": "/hoas/static/css/main.f547b944.chunk.css.map",
     "static/js/2.3a9157b6.chunk.js.LICENSE.txt": "/hoas/static/js/2.3a9157b6.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8255bf0d.js",
     "static/js/2.3a9157b6.chunk.js",
     "static/css/main.f547b944.chunk.css",
-    "static/js/main.8875ebdb.chunk.js"
+    "static/js/main.da7ad60f.chunk.js"
   ]
 }
