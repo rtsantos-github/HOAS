@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hoas/static/css/main.f547b944.chunk.css",
+    "main.js": "/hoas/static/js/main.a555528e.chunk.js",
+    "main.js.map": "/hoas/static/js/main.a555528e.chunk.js.map",
+    "runtime-main.js": "/hoas/static/js/runtime-main.8255bf0d.js",
+    "runtime-main.js.map": "/hoas/static/js/runtime-main.8255bf0d.js.map",
+    "static/js/2.3a9157b6.chunk.js": "/hoas/static/js/2.3a9157b6.chunk.js",
+    "static/js/2.3a9157b6.chunk.js.map": "/hoas/static/js/2.3a9157b6.chunk.js.map",
+    "index.html": "/hoas/index.html",
+    "precache-manifest.e0aaa677c0066552d66bb164b53a1bd6.js": "/hoas/precache-manifest.e0aaa677c0066552d66bb164b53a1bd6.js",
+    "service-worker.js": "/hoas/service-worker.js",
+    "static/css/main.f547b944.chunk.css.map": "/hoas/static/css/main.f547b944.chunk.css.map",
+    "static/js/2.3a9157b6.chunk.js.LICENSE.txt": "/hoas/static/js/2.3a9157b6.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/hoas/static/media/Logo.fd3fe931.png",
+    "static/media/MommyDaddy.png": "/hoas/static/media/MommyDaddy.bc44f07d.png",
+    "static/media/Hoa.module.css": "/hoas/static/media/nature.388f7ce5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8255bf0d.js",
+    "static/js/2.3a9157b6.chunk.js",
+    "static/css/main.f547b944.chunk.css",
+    "static/js/main.a555528e.chunk.js"
+  ]
+}
