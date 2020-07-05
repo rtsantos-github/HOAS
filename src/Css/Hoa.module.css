@@ -1,0 +1,157 @@
+.Home {
+  background: url(../images/nature.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  min-width: auto;
+  min-height: 1005px;
+
+  height: auto;
+  width: auto;
+}
+
+.Container {
+  margin-top: 50px;
+}
+
+.HOALogo {
+  max-width: 529px;
+  max-height: 250px;
+
+  height: auto;
+  width: 100%;
+}
+
+.HOALogoOnPage {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+}
+
+.LoginSideLogo {
+  min-width: 53px;
+  min-height: 420px;
+
+  height: auto;
+  width: 100%;
+}
+
+.DivToPaper {
+  padding: 20px;
+}
+
+.Inline {
+  display: inline-block;
+}
+
+.AlrightReserve {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.Msg {
+  z-index: 10000;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.UploadFiles {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.RequestGrdList {
+  height: auto;
+  width: auto;
+}
+
+.ImgRequest {
+  height: 400px;
+  width: auto;
+}
+
+.RequestComplain {
+  color: red;
+}
+
+.dashBoardgreen {
+  background-color: green;
+  border-radius: 5px;
+  text-align: center;
+  width: 220px;
+}
+
+.dashBoardTile,
+.dashBoardServed,
+.dashBoardReceived,
+.dashBoardNew,
+.dashBoardCancelled,
+.dashBoardPending {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  text-align: center;
+  width: 220px;
+  height: 100px;
+  color: white;
+  font-size: 55px;
+  font-family: Roboto;
+  font-weight: lighter;
+  padding-top: 10px;
+  box-shadow: 1px 0px 2px lightgray;
+}
+
+.dashBoardServed {
+  background-color: green;
+}
+/* 
+.dashBoardServed :hover {
+  background-color: lightgreen;
+} */
+
+.dashBoardReceived {
+  background-color: #ee9336;
+}
+
+.dashBoardNew {
+  background-color: #0271b9;
+}
+
+.dashBoardCancelled {
+  background-color: #d43f3a;
+}
+
+.dashBoardPending {
+  background-color: #fdc432;
+}
+
+.dashBoardTileText {
+  text-align: center;
+  width: 220px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+  border-left: thin;
+  border-right: thin;
+  border-bottom: thin;
+  border-top: none;
+  border-color: darkgray;
+  font-family: Roboto;
+  font-size: 20px;
+  color: black;
+  box-shadow: 1px 1px 2px lightgray;
+  margin-bottom: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.dashBoardTitle {
+  font-family: Roboto;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}

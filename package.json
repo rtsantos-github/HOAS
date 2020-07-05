@@ -1,0 +1,53 @@
+{
+  "name": "employee",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://rsantos-github.github.io/hoas",
+  "dependencies": {
+    "@date-io/date-fns": "^2.6.1",
+    "@material-ui/core": "^4.9.12",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.53",
+    "@material-ui/pickers": "^3.2.10",
+    "@react-pdf/renderer": "^2.0.0-beta.6",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.1",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "jspdf": "^1.5.3",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-dom": "^16.13.0",
+    "react-global-configuration": "^1.4.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
